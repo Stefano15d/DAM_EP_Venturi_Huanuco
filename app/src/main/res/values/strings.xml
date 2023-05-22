@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DAMEP_JamesHuanuco_DanielVenturi</string>
+    <string name="button_enviar">Enviar</string>
+    <string name="radiobutton_urbano">Urbano</string>
+    <string name="radiobutton_rural">Rural</string>
+    <string name="checkbox_gt" />
+    <string name="checkbox_perro">Perro</string>
+    <string name="checkbox_gato">Gato</string>
+    <string name="checkbox_pollo">Pollo</string>
+    <string name="checkbox_pato">Pato</string>
+    <string name="checkbox_otro">Otro</string>
+    <string name="textview_AyN">Apellidos y Nombres</string>
+    <string name="textview_correo">Correo Electronico</string>
+    <string name="textview_clave">Clave</string>
+    <string name="textview_telefono">Telefono de contacto</string>
+    <string name="textview_fecha">Fecha de Nacimiento</string>
+    <string name="textview_hora">Hora de Nacimiento</string>
+    <string name="textview_residencia">Zona de residencia</string>
+    <string name="textview_personavivienda">¿Cuántas personas viven en la vivienda?</string>
+    <string name="textview_sueldo">Ingreso (Sueldo) Promedio de la Familia</string>
+    <string name="textview_bono">¿Que opina sobre los bonos otorgados por el gobierno?</string>
+    <string name="textview_mascot">Mascotas que viven en casa</string>
+    <string name="textview_censo">Censo DAM 2023</string>
+</resources>
